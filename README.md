@@ -3,7 +3,7 @@
 - 👋 Hi, I’m ChaoGao
 - 👀 I am interested in being a front-end developer. 
 - 🌱 I’m currently learning Typescript.
-- 💞️ My learning roadmap: Html => Css => JavaScript => Es6 => Vue.js => Node.js/Ko2 => Algorithm
+- 💞️ My learning roadmap: Html => Css => JavaScript => Es6 => Vue.js => Node.js/Koa2 => Algorithm
 
 
 <!---
